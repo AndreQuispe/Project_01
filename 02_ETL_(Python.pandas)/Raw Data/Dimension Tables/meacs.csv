@@ -1,0 +1,301 @@
+cod_colegio;meac;nivel;estado;tipo_terreno
+1;1;Primaria;;
+1;2;Primaria;;
+1;3;Primaria;;
+1;4;Primaria;;
+1;5;Primaria;;
+1;6;Primaria;;
+1;7;Secundaria;;
+1;8;Secundaria;;
+1;9;Secundaria;;
+2;1;Primaria;;Terreno Natural
+2;2;Primaria;;Terreno Natural
+2;3;Primaria;;Terreno Natural
+2;4;Primaria;;Terreno Natural
+2;5;Primaria;;Terreno Natural
+2;6;Primaria;;Terreno Natural
+2;7;Secundaria;;Terreno Natural
+2;8;Secundaria;;Terreno Natural
+2;9;Secundaria;;Terreno Natural
+2;10;Secundaria;;Terreno Natural
+2;11;Secundaria;;Terreno Natural
+2;12;Secundaria;;Terreno Natural
+3;1;Secundaria;;
+3;2;Secundaria;;
+3;3;Primaria;;
+3;4;Primaria;;
+4;1;Primaria;;
+4;2;Primaria;;
+4;3;Secundaria;;
+4;4;Secundaria;;
+4;5;Inicial;;
+4;6;Inicial;;
+4;7;Inicial;;
+4;8;Inicial;;
+4;9;Inicial;;
+5;1;Primaria;;
+5;2;Primaria;;
+5;3;Primaria;;
+5;4;Primaria;;
+5;5;Primaria;;
+6;1;Primaria;;
+6;2;Primaria;;
+6;3;Primaria;;
+6;4;Primaria;;
+6;5;Primaria;;
+7;1;Inicial;;
+7;2;Inicial;;
+7;3;Primaria;;
+7;4;Primaria;;
+7;5;Secundaria;;
+7;6;Secundaria;;
+8;1;Inicial;;Losa
+8;2;Inicial;;Terreno Natural
+8;3;Inicial;;Terreno Natural
+8;4;Primaria;;Terreno Natural
+9;1;Primaria;;Losa
+9;2;Primaria;;Losa
+9;3;Primaria;;Losa
+9;4;Primaria;;Losa
+9;5;Primaria;;Losa
+9;6;Primaria;;Losa
+9;7;Primaria;;Losa
+9;8;Primaria;;Losa
+9;9;Secundaria;;Losa
+9;10;Secundaria;;Losa
+9;11;Secundaria;;Losa
+9;12;Secundaria;;Losa
+9;13;Secundaria;;Losa
+9;14;Secundaria;;Losa
+9;15;Secundaria;;Terreno Natural
+9;16;Secundaria;;Terreno Natural
+10;1;Primaria;;
+10;2;Primaria;;
+10;3;Primaria;;
+10;4;Primaria;;
+10;5;Primaria;;
+10;6;Primaria;;
+10;7;Primaria;;
+11;1;Inicial;;
+12;1;Primaria;;
+12;2;Primaria;;
+12;3;Primaria;;
+12;4;Secundaria;;
+12;5;Secundaria;;
+13;1;Inicial;;Losa
+13;2;Inicial;;
+14;1;Secundaria;;Terreno Natural
+14;2;Secundaria;;Terreno Natural
+14;3;Secundaria;;Terreno Natural
+14;4;Secundaria;;Terreno Natural
+14;5;Secundaria;;Terreno Natural
+14;6;Secundaria;;Terreno Natural
+15;1;Inicial;;
+15;2;Inicial;;
+15;3;Inicial;;
+15;4;Primaria;;
+15;5;Primaria;;
+16;1;Primaria;;
+16;2;Primaria;;
+16;3;Primaria;;
+16;4;Primaria;;
+16;5;Primaria;;
+16;6;Primaria;;
+16;7;Primaria;;
+16;8;Primaria;;
+17;1;Secundaria;;
+17;2;Secundaria;;
+17;3;Secundaria;;
+18;1;Secundaria;;
+18;2;Secundaria;;
+18;3;Secundaria;;
+18;4;Secundaria;;
+18;5;Secundaria;;
+19;1;Primaria;;
+19;2;Primaria;;
+19;3;Primaria;;
+19;4;Primaria;;
+20;1;Primaria;;
+20;2;Primaria;;
+20;3;Primaria;;
+20;4;Secundaria;;
+20;5;Secundaria;;
+20;6;Secundaria;;
+21;1;Secundaria;;Terreno Natural
+21;2;Secundaria;;Terreno Natural
+21;3;Secundaria;;Terreno Natural
+21;4;Secundaria;;Terreno Natural
+21;5;Secundaria;;Terreno Natural
+21;6;Secundaria;;Terreno Natural
+21;7;Secundaria;;Losa - Terreno N.
+21;8;Secundaria;;Losa - Terreno N.
+21;9;Secundaria;;Losa - Terreno N.
+21;10;Secundaria;;Losa - Terreno N.
+22;1;Secundaria;;
+22;2;Secundaria;;
+22;3;Secundaria;;
+22;4;Secundaria;;
+22;5;Secundaria;;
+22;6;Secundaria;;
+22;7;Secundaria;;
+23;1;Inicial;;Losa
+23;2;Inicial;;Losa
+23;3;Inicial;;Losa
+23;4;Inicial;;Losa
+23;5;Inicial;;Losa
+24;1;Inicial;;
+24;2;Primaria;;
+24;3;Primaria;;
+24;4;Secundaria;;
+24;5;Secundaria;;
+25;1;Inicial;;
+25;2;Inicial;;
+25;3;Inicial;;
+26;1;Primaria;;
+26;2;Secundaria;;
+27;1;Inicial;;
+28;1;Inicial;;
+29;1;Inicial;;
+30;1;Inicial;;
+31;1;Secundaria;;Terreno Natural
+32;1;Primaria;;
+32;2;Primaria;;
+32;3;Primaria;;
+33;1;Primaria;;
+33;2;Primaria;;
+33;3;Primaria;;
+33;4;Primaria;;
+34;1;Primaria;;Losa
+34;2;Primaria;;Losa
+34;3;Primaria;;Losa
+34;4;Primaria;;Losa
+35;1;Primaria;;
+35;2;Primaria;;
+36;1;Primaria;;
+36;2;Primaria;;
+36;3;Primaria;;
+36;4;Primaria;;
+37;1;Secundaria;;Losa
+37;2;Secundaria;;Losa
+37;3;Secundaria;;Losa
+37;4;Secundaria;;Losa
+37;5;Secundaria;;Losa
+38;1;Secundaria;;
+38;2;Secundaria;;
+39;1;Secundaria;;
+39;2;Secundaria;;
+40;1;Inicial;;Losa
+40;2;Inicial;;Losa
+40;3;Primaria;;Losa
+40;4;Secundaria;;Terreno Natural
+40;5;Secundaria;;Terreno Natural
+41;1;Inicial;;Losa
+41;2;Inicial;;Losa
+41;3;Inicial;;Losa
+41;4;Inicial;;Losa
+41;5;Inicial;;Losa
+41;6;Primaria;;Losa
+41;7;Primaria;;Losa
+41;8;Primaria;;Losa
+41;9;Secundaria;;Terreno Natural
+41;10;Secundaria;;Terreno Natural
+41;11;Secundaria;;Terreno Natural
+41;12;Secundaria;;Terreno Natural
+41;13;Secundaria;;Terreno Natural
+41;14;Secundaria;;Terreno Natural
+41;15;Primaria;;Losa
+42;1;Primaria;;
+42;2;Primaria;;
+42;3;Primaria;;
+43;1;Secundaria;;
+43;2;Secundaria;;
+43;3;Secundaria;;
+43;4;Secundaria;;
+43;5;Secundaria;;
+43;6;Secundaria;;
+43;7;Secundaria;;
+43;8;Secundaria;;
+43;9;Secundaria;;
+43;10;Secundaria;;
+43;11;Secundaria;;
+43;12;Secundaria;;
+44;1;Primaria;;
+44;2;Primaria;;
+44;3;Primaria;;
+44;4;Primaria;;
+44;5;Primaria;;
+44;6;Primaria;;
+44;7;Primaria;;
+44;8;Primaria;;
+44;9;Primaria;;
+44;10;Primaria;;
+44;11;Primaria;;
+44;12;Primaria;;
+44;13;Secundaria;;
+44;14;Secundaria;;
+44;15;Secundaria;;
+44;16;Secundaria;;
+44;17;Secundaria;;
+44;18;Secundaria;;
+44;19;Secundaria;;
+44;20;Secundaria;;
+44;21;Secundaria;;
+44;22;Secundaria;;
+44;23;Secundaria;;
+44;24;Secundaria;;
+45;1;Inicial;;
+46;1;Inicial;;
+46;2;Inicial;;
+46;3;Inicial;;
+47;1;Inicial;;
+47;2;Inicial;;
+47;3;Inicial;;
+48;1;Inicial;;
+48;2;Inicial;;
+48;3;Primaria;;
+48;4;Primaria;;
+49;1;Primaria;;
+49;2;Primaria;;
+49;3;Secundaria;;
+49;4;Secundaria;;
+50;1;Primaria;;
+50;2;Primaria;;
+50;3;Secundaria;;
+50;4;Secundaria;;
+51;1;Inicial;;
+51;2;Inicial;;
+51;3;Inicial;;
+52;1;Primaria;;
+52;2;Primaria;;
+53;1;Secundaria;;
+53;2;Secundaria;;
+53;3;Secundaria;;
+53;4;Secundaria;;
+53;5;Secundaria;;
+53;6;Secundaria;;
+53;7;Secundaria;;
+53;8;Secundaria;;
+54;1;Inicial;;
+55;1;Secundaria;;Losa - Terreno N.
+55;2;Secundaria;;Losa
+55;3;Secundaria;;Losa
+55;4;Secundaria;;Losa
+55;5;Secundaria;;Losa
+56;1;Inicial;;
+56;2;Inicial;;
+56;3;Inicial;;
+56;4;Inicial;;
+57;1;Secundaria;;
+57;2;Secundaria;;
+57;3;Secundaria;;
+57;4;Secundaria;;
+57;5;Secundaria;;
+58;1;Inicial;;Losa
+58;2;Inicial;;Losa
+59;1;Primaria;;
+59;2;Primaria;;
+59;3;Primaria;;
+59;4;Secundaria;;
+59;5;Secundaria;;
+59;6;Secundaria;;
+60;1;Inicial;;

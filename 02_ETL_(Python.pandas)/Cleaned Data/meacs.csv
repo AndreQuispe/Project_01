@@ -1,0 +1,301 @@
+cod_colegio,meac,nivel,estado,tipo_terreno,estado_ejecucion,colegio_meac
+1,1,Primaria,,,Pendiente,1-1
+1,2,Primaria,,,Pendiente,1-2
+1,3,Primaria,,,Pendiente,1-3
+1,4,Primaria,,,Pendiente,1-4
+1,5,Primaria,,,Pendiente,1-5
+1,6,Primaria,,,Pendiente,1-6
+1,7,Secundaria,,,Pendiente,1-7
+1,8,Secundaria,,,Pendiente,1-8
+1,9,Secundaria,,,Pendiente,1-9
+2,1,Primaria,,Terreno Natural,Ejecutado,2-1
+2,2,Primaria,,Terreno Natural,Ejecutado,2-2
+2,3,Primaria,,Terreno Natural,Ejecutado,2-3
+2,4,Primaria,,Terreno Natural,Ejecutado,2-4
+2,5,Primaria,,Terreno Natural,Ejecutado,2-5
+2,6,Primaria,,Terreno Natural,Ejecutado,2-6
+2,7,Secundaria,,Terreno Natural,Ejecutado,2-7
+2,8,Secundaria,,Terreno Natural,Ejecutado,2-8
+2,9,Secundaria,,Terreno Natural,Ejecutado,2-9
+2,10,Secundaria,,Terreno Natural,Ejecutado,2-10
+2,11,Secundaria,,Terreno Natural,Ejecutado,2-11
+2,12,Secundaria,,Terreno Natural,Ejecutado,2-12
+3,1,Secundaria,,,Pendiente,3-1
+3,2,Secundaria,,,Pendiente,3-2
+3,3,Primaria,,,Pendiente,3-3
+3,4,Primaria,,,Pendiente,3-4
+4,1,Primaria,,,Pendiente,4-1
+4,2,Primaria,,,Pendiente,4-2
+4,3,Secundaria,,,Pendiente,4-3
+4,4,Secundaria,,,Pendiente,4-4
+4,5,Inicial,,,Pendiente,4-5
+4,6,Inicial,,,Pendiente,4-6
+4,7,Inicial,,,Pendiente,4-7
+4,8,Inicial,,,Pendiente,4-8
+4,9,Inicial,,,Pendiente,4-9
+5,1,Primaria,,,Pendiente,5-1
+5,2,Primaria,,,Pendiente,5-2
+5,3,Primaria,,,Pendiente,5-3
+5,4,Primaria,,,Pendiente,5-4
+5,5,Primaria,,,Pendiente,5-5
+6,1,Primaria,,,Pendiente,6-1
+6,2,Primaria,,,Pendiente,6-2
+6,3,Primaria,,,Pendiente,6-3
+6,4,Primaria,,,Pendiente,6-4
+6,5,Primaria,,,Pendiente,6-5
+7,1,Inicial,,,Pendiente,7-1
+7,2,Inicial,,,Pendiente,7-2
+7,3,Primaria,,,Pendiente,7-3
+7,4,Primaria,,,Pendiente,7-4
+7,5,Secundaria,,,Pendiente,7-5
+7,6,Secundaria,,,Pendiente,7-6
+8,1,Inicial,,Losa,En Ejecución,8-1
+8,2,Inicial,,Terreno Natural,En Ejecución,8-2
+8,3,Inicial,,Terreno Natural,Ejecutado,8-3
+8,4,Primaria,,Terreno Natural,Ejecutado,8-4
+9,1,Primaria,,Losa,En Ejecución,9-1
+9,2,Primaria,,Losa,En Ejecución,9-2
+9,3,Primaria,,Losa,En Ejecución,9-3
+9,4,Primaria,,Losa,En Ejecución,9-4
+9,5,Primaria,,Losa,Ejecutado,9-5
+9,6,Primaria,,Losa,En Ejecución,9-6
+9,7,Primaria,,Losa,Ejecutado,9-7
+9,8,Primaria,,Losa,Ejecutado,9-8
+9,9,Secundaria,,Losa,Ejecutado,9-9
+9,10,Secundaria,,Losa,Ejecutado,9-10
+9,11,Secundaria,,Losa,Ejecutado,9-11
+9,12,Secundaria,,Losa,Ejecutado,9-12
+9,13,Secundaria,,Losa,Ejecutado,9-13
+9,14,Secundaria,,Losa,Ejecutado,9-14
+9,15,Secundaria,,Terreno Natural,Ejecutado,9-15
+9,16,Secundaria,,Terreno Natural,Ejecutado,9-16
+10,1,Primaria,,,Pendiente,10-1
+10,2,Primaria,,,Pendiente,10-2
+10,3,Primaria,,,Pendiente,10-3
+10,4,Primaria,,,Pendiente,10-4
+10,5,Primaria,,,Pendiente,10-5
+10,6,Primaria,,,Pendiente,10-6
+10,7,Primaria,,,Pendiente,10-7
+11,1,Inicial,,,Pendiente,11-1
+12,1,Primaria,,,Pendiente,12-1
+12,2,Primaria,,,Pendiente,12-2
+12,3,Primaria,,,Pendiente,12-3
+12,4,Secundaria,,,Pendiente,12-4
+12,5,Secundaria,,,Pendiente,12-5
+13,1,Inicial,,Losa,En Ejecución,13-1
+13,2,Inicial,,,Pendiente,13-2
+14,1,Secundaria,,Terreno Natural,En Ejecución,14-1
+14,2,Secundaria,,Terreno Natural,En Ejecución,14-2
+14,3,Secundaria,,Terreno Natural,Ejecutado,14-3
+14,4,Secundaria,,Terreno Natural,Ejecutado,14-4
+14,5,Secundaria,,Terreno Natural,Ejecutado,14-5
+14,6,Secundaria,,Terreno Natural,En Ejecución,14-6
+15,1,Inicial,,,Pendiente,15-1
+15,2,Inicial,,,Pendiente,15-2
+15,3,Inicial,,,Pendiente,15-3
+15,4,Primaria,,,Pendiente,15-4
+15,5,Primaria,,,Pendiente,15-5
+16,1,Primaria,,,Pendiente,16-1
+16,2,Primaria,,,Pendiente,16-2
+16,3,Primaria,,,Pendiente,16-3
+16,4,Primaria,,,Pendiente,16-4
+16,5,Primaria,,,Pendiente,16-5
+16,6,Primaria,,,Pendiente,16-6
+16,7,Primaria,,,Pendiente,16-7
+16,8,Primaria,,,Pendiente,16-8
+17,1,Secundaria,,,Pendiente,17-1
+17,2,Secundaria,,,Pendiente,17-2
+17,3,Secundaria,,,Pendiente,17-3
+18,1,Secundaria,,,Pendiente,18-1
+18,2,Secundaria,,,Pendiente,18-2
+18,3,Secundaria,,,Pendiente,18-3
+18,4,Secundaria,,,Pendiente,18-4
+18,5,Secundaria,,,Pendiente,18-5
+19,1,Primaria,,,Pendiente,19-1
+19,2,Primaria,,,Pendiente,19-2
+19,3,Primaria,,,Pendiente,19-3
+19,4,Primaria,,,Pendiente,19-4
+20,1,Primaria,,,Pendiente,20-1
+20,2,Primaria,,,Pendiente,20-2
+20,3,Primaria,,,Pendiente,20-3
+20,4,Secundaria,,,Pendiente,20-4
+20,5,Secundaria,,,Pendiente,20-5
+20,6,Secundaria,,,Pendiente,20-6
+21,1,Secundaria,,Terreno Natural,En Ejecución,21-1
+21,2,Secundaria,,Terreno Natural,En Ejecución,21-2
+21,3,Secundaria,,Terreno Natural,En Ejecución,21-3
+21,4,Secundaria,,Terreno Natural,Ejecutado,21-4
+21,5,Secundaria,,Terreno Natural,Ejecutado,21-5
+21,6,Secundaria,,Terreno Natural,Ejecutado,21-6
+21,7,Secundaria,,Losa - Terreno N.,Ejecutado,21-7
+21,8,Secundaria,,Losa - Terreno N.,Ejecutado,21-8
+21,9,Secundaria,,Losa - Terreno N.,En Ejecución,21-9
+21,10,Secundaria,,Losa - Terreno N.,En Ejecución,21-10
+22,1,Secundaria,,,Pendiente,22-1
+22,2,Secundaria,,,Pendiente,22-2
+22,3,Secundaria,,,Pendiente,22-3
+22,4,Secundaria,,,Pendiente,22-4
+22,5,Secundaria,,,Pendiente,22-5
+22,6,Secundaria,,,Pendiente,22-6
+22,7,Secundaria,,,Pendiente,22-7
+23,1,Inicial,,Losa,Ejecutado,23-1
+23,2,Inicial,,Losa,Ejecutado,23-2
+23,3,Inicial,,Losa,Ejecutado,23-3
+23,4,Inicial,,Losa,En Ejecución,23-4
+23,5,Inicial,,Losa,En Ejecución,23-5
+24,1,Inicial,,,Pendiente,24-1
+24,2,Primaria,,,Pendiente,24-2
+24,3,Primaria,,,Pendiente,24-3
+24,4,Secundaria,,,Pendiente,24-4
+24,5,Secundaria,,,Pendiente,24-5
+25,1,Inicial,,,Pendiente,25-1
+25,2,Inicial,,,Pendiente,25-2
+25,3,Inicial,,,Pendiente,25-3
+26,1,Primaria,,,Pendiente,26-1
+26,2,Secundaria,,,Pendiente,26-2
+27,1,Inicial,,,Pendiente,27-1
+28,1,Inicial,,,Pendiente,28-1
+29,1,Inicial,,,Pendiente,29-1
+30,1,Inicial,,,Pendiente,30-1
+31,1,Secundaria,,Terreno Natural,En Ejecución,31-1
+32,1,Primaria,,,Pendiente,32-1
+32,2,Primaria,,,Pendiente,32-2
+32,3,Primaria,,,Pendiente,32-3
+33,1,Primaria,,,Pendiente,33-1
+33,2,Primaria,,,Pendiente,33-2
+33,3,Primaria,,,Pendiente,33-3
+33,4,Primaria,,,Pendiente,33-4
+34,1,Primaria,,Losa,En Ejecución,34-1
+34,2,Primaria,,Losa,En Ejecución,34-2
+34,3,Primaria,,Losa,En Ejecución,34-3
+34,4,Primaria,,Losa,Ejecutado,34-4
+35,1,Primaria,,,Pendiente,35-1
+35,2,Primaria,,,Pendiente,35-2
+36,1,Primaria,,,Pendiente,36-1
+36,2,Primaria,,,Pendiente,36-2
+36,3,Primaria,,,Pendiente,36-3
+36,4,Primaria,,,Pendiente,36-4
+37,1,Secundaria,,Losa,En Ejecución,37-1
+37,2,Secundaria,,Losa,En Ejecución,37-2
+37,3,Secundaria,,Losa,En Ejecución,37-3
+37,4,Secundaria,,Losa,En Ejecución,37-4
+37,5,Secundaria,,Losa,Pendiente,37-5
+38,1,Secundaria,,,Pendiente,38-1
+38,2,Secundaria,,,Pendiente,38-2
+39,1,Secundaria,,,Pendiente,39-1
+39,2,Secundaria,,,Pendiente,39-2
+40,1,Inicial,,Losa,En Ejecución,40-1
+40,2,Inicial,,Losa,En Ejecución,40-2
+40,3,Primaria,,Losa,Ejecutado,40-3
+40,4,Secundaria,,Terreno Natural,En Ejecución,40-4
+40,5,Secundaria,,Terreno Natural,En Ejecución,40-5
+41,1,Inicial,,Losa,En Ejecución,41-1
+41,2,Inicial,,Losa,En Ejecución,41-2
+41,3,Inicial,,Losa,Ejecutado,41-3
+41,4,Inicial,,Losa,Ejecutado,41-4
+41,5,Inicial,,Losa,Ejecutado,41-5
+41,6,Primaria,,Losa,Ejecutado,41-6
+41,7,Primaria,,Losa,Ejecutado,41-7
+41,8,Primaria,,Losa,Ejecutado,41-8
+41,9,Secundaria,,Terreno Natural,Pendiente,41-9
+41,10,Secundaria,,Terreno Natural,Pendiente,41-10
+41,11,Secundaria,,Terreno Natural,Pendiente,41-11
+41,12,Secundaria,,Terreno Natural,En Ejecución,41-12
+41,13,Secundaria,,Terreno Natural,En Ejecución,41-13
+41,14,Secundaria,,Terreno Natural,En Ejecución,41-14
+41,15,Primaria,,Losa,En Ejecución,41-15
+42,1,Primaria,,,Pendiente,42-1
+42,2,Primaria,,,Pendiente,42-2
+42,3,Primaria,,,Pendiente,42-3
+43,1,Secundaria,,,Pendiente,43-1
+43,2,Secundaria,,,Pendiente,43-2
+43,3,Secundaria,,,Pendiente,43-3
+43,4,Secundaria,,,Pendiente,43-4
+43,5,Secundaria,,,Pendiente,43-5
+43,6,Secundaria,,,Pendiente,43-6
+43,7,Secundaria,,,Pendiente,43-7
+43,8,Secundaria,,,Pendiente,43-8
+43,9,Secundaria,,,Pendiente,43-9
+43,10,Secundaria,,,Pendiente,43-10
+43,11,Secundaria,,,Pendiente,43-11
+43,12,Secundaria,,,Pendiente,43-12
+44,1,Primaria,,,Pendiente,44-1
+44,2,Primaria,,,Pendiente,44-2
+44,3,Primaria,,,Pendiente,44-3
+44,4,Primaria,,,Pendiente,44-4
+44,5,Primaria,,,Pendiente,44-5
+44,6,Primaria,,,Pendiente,44-6
+44,7,Primaria,,,Pendiente,44-7
+44,8,Primaria,,,Pendiente,44-8
+44,9,Primaria,,,Pendiente,44-9
+44,10,Primaria,,,Pendiente,44-10
+44,11,Primaria,,,Pendiente,44-11
+44,12,Primaria,,,Pendiente,44-12
+44,13,Secundaria,,,Pendiente,44-13
+44,14,Secundaria,,,Pendiente,44-14
+44,15,Secundaria,,,Pendiente,44-15
+44,16,Secundaria,,,Pendiente,44-16
+44,17,Secundaria,,,Pendiente,44-17
+44,18,Secundaria,,,Pendiente,44-18
+44,19,Secundaria,,,Pendiente,44-19
+44,20,Secundaria,,,Pendiente,44-20
+44,21,Secundaria,,,Pendiente,44-21
+44,22,Secundaria,,,Pendiente,44-22
+44,23,Secundaria,,,Pendiente,44-23
+44,24,Secundaria,,,Pendiente,44-24
+45,1,Inicial,,,Pendiente,45-1
+46,1,Inicial,,,Pendiente,46-1
+46,2,Inicial,,,Pendiente,46-2
+46,3,Inicial,,,Pendiente,46-3
+47,1,Inicial,,,Pendiente,47-1
+47,2,Inicial,,,Pendiente,47-2
+47,3,Inicial,,,Pendiente,47-3
+48,1,Inicial,,,Pendiente,48-1
+48,2,Inicial,,,Pendiente,48-2
+48,3,Primaria,,,Pendiente,48-3
+48,4,Primaria,,,Pendiente,48-4
+49,1,Primaria,,,Pendiente,49-1
+49,2,Primaria,,,Pendiente,49-2
+49,3,Secundaria,,,Pendiente,49-3
+49,4,Secundaria,,,Pendiente,49-4
+50,1,Primaria,,,Pendiente,50-1
+50,2,Primaria,,,Pendiente,50-2
+50,3,Secundaria,,,Pendiente,50-3
+50,4,Secundaria,,,Pendiente,50-4
+51,1,Inicial,,,Pendiente,51-1
+51,2,Inicial,,,Pendiente,51-2
+51,3,Inicial,,,Pendiente,51-3
+52,1,Primaria,,,Pendiente,52-1
+52,2,Primaria,,,Pendiente,52-2
+53,1,Secundaria,,,Pendiente,53-1
+53,2,Secundaria,,,Pendiente,53-2
+53,3,Secundaria,,,Pendiente,53-3
+53,4,Secundaria,,,Pendiente,53-4
+53,5,Secundaria,,,Pendiente,53-5
+53,6,Secundaria,,,Pendiente,53-6
+53,7,Secundaria,,,Pendiente,53-7
+53,8,Secundaria,,,Pendiente,53-8
+54,1,Inicial,,,Pendiente,54-1
+55,1,Secundaria,,Losa - Terreno N.,En Ejecución,55-1
+55,2,Secundaria,,Losa,En Ejecución,55-2
+55,3,Secundaria,,Losa,En Ejecución,55-3
+55,4,Secundaria,,Losa,En Ejecución,55-4
+55,5,Secundaria,,Losa,En Ejecución,55-5
+56,1,Inicial,,,Pendiente,56-1
+56,2,Inicial,,,Pendiente,56-2
+56,3,Inicial,,,Pendiente,56-3
+56,4,Inicial,,,Pendiente,56-4
+57,1,Secundaria,,,Pendiente,57-1
+57,2,Secundaria,,,Pendiente,57-2
+57,3,Secundaria,,,Pendiente,57-3
+57,4,Secundaria,,,Pendiente,57-4
+57,5,Secundaria,,,Pendiente,57-5
+58,1,Inicial,,Losa,Ejecutado,58-1
+58,2,Inicial,,Losa,Ejecutado,58-2
+59,1,Primaria,,,Pendiente,59-1
+59,2,Primaria,,,Pendiente,59-2
+59,3,Primaria,,,Pendiente,59-3
+59,4,Secundaria,,,Pendiente,59-4
+59,5,Secundaria,,,Pendiente,59-5
+59,6,Secundaria,,,Pendiente,59-6
+60,1,Inicial,,,Pendiente,60-1

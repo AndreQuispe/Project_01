@@ -1,0 +1,21 @@
+cod_contratista;nombre;apellido;razon_social;correo_electronico;numero_cel;n_contrato;fecha_contrato;num_meac;cost_por_meac;adelanto_contrato
+1;Carmen;Rodríguez;Rodríguez & Asociados;info@rodriguezasociados.com;984592310;NXC-CMO-211903-01;21/02/2020;26;4500;11700
+2;Paula;Díaz;Díaz Holdings;contact@diazholdingsgroup.com;987785403;NXC-CMO-211903-02;21/02/2020;24;4500;10800
+3;Adrián;Gómez;Gómez Emprendimientos;inquiries@gomezemprendimientos.net;984634720;NXC-CMO-211903-03;21/02/2020;26;4500;11700
+4;Marina;Martín;Martín Consulting;info@martinconsultingfirm.com;978019856;NXC-CMO-211903-04;21/02/2020;16;4500;7200
+5;Andrés;Castro;Castro Group;contact@castrogroupintl.com;954746589;NXC-CMO-211903-05;21/02/2020;22;4500;9900
+8;Francisco;Herrera;Herrera Enterprises;info@herreraenterprises.co;954870196;NXC-CMO-211903-08;21/02/2020;26;4500;11700
+11;Óscar;Morales;Morales Empresarial;inquiries@moralesempresarial.com;984924307;NXC-CMO-211903-11;21/02/2020;16;4500;7200
+7;Daniel;Hernández;Hernández Solutions;support@hernandezsolutions.net;978790246;NXC-CMO-211903-07;28/02/2020;20;4500;9000
+9;Iván;Serrano;Serrano Solutions;contact@serranosolutionsgroup.com;927257481;NXC-CMO-211903-09;28/02/2020;20;4500;9000
+10;Alba;Jiménez;Jiménez Holdings;info@jimenezholdingsinc.com;987419605;NXC-CMO-211903-10;28/02/2020;20;4500;9000
+12;Laura;López;López Corporation;contact@lopezcorporation.biz;978024613;NXC-CMO-211903-12;28/02/2020;18;4500;8100
+14;Guillermo;Vargas;Vargas & Partners;hello@vargasandpartners.org;927198540;NXC-CMO-211903-14;28/02/2020;18;4500;8100
+15;Sara;Muñoz;Muñoz Enterprises;support@munozenterprisesgroup.com;978236197;NXC-CMO-211903-15;28/02/2020;16;4500;7200
+16;Isabel;Ruiz;Ruiz Corporativo;contact@ruizcorporativo.co;954753608;NXC-CMO-211903-16;28/02/2020;16;4500;7200
+20;Víctor;López;López Innovations;hello@lopezinnovationsgroup.net;978219876;NXC-CMO-211903-20;28/02/2020;16;4500;7200
+21;Elena;García;García Group;info@garciagroupenterprises.com;954234567;NXC-CMO-211903-21;28/02/2020;16;4500;7200
+6;Cristina;Navarro;Navarro Business;hello@navarrobusinesssolutions.com;927571234;NXC-CMO-211903-06;06/03/2020;10;4500;4500
+13;Marcos;Fernández;Fernández Inc.;info@fernandezincorporated.com;954587692;NXC-CMO-211903-13;06/03/2020;16;4500;7200
+17;Raquel;Ramos;Ramos Holdings;info@ramosholdingsllc.com;978890312;NXC-CMO-211903-17;06/03/2020;10;4500;4500
+18;Sergio;Pérez;Pérez Corporation;inquiries@perezcorporation.com;954543219;NXC-CMO-211903-18;06/03/2020;6;4500;2700
